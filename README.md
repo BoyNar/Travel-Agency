@@ -1,4 +1,5 @@
 # Travel-Agency
+
 Agence de voyage
 
 
@@ -8,7 +9,3 @@ Agence de voyage
 ![all-screens](images/steps_and_possibilities.png)
 ![all-screens](images/possibilities_and_contact.png)
 ![all-screens](images/Contact_and_footer.png)
-
-### Licence 🚨
-
-Ce projet est sous **[License MIT](LICENSE)**.
